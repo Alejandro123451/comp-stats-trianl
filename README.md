@@ -1,2 +1,2 @@
 # comp-stats-trianl
-# I am getting to know gethub
+# I am getting to know github
